@@ -6,7 +6,7 @@
 }
 
 body{
-    background-image: linear-gradient(rgba(17, 17, 17, 1), rgba(17, 17, 17, 0.5), rgba(17, 17, 17, 1)), url("/img/netflix-fondo.jpg");
+    background-image: linear-gradient(rgba(17, 17, 17, 1), rgba(17, 17, 17, 0.5), rgba(17, 17, 17, 1)), url("../img/netflix-fondo.jpg");
     width: 100vw;
     height: 100vh;
     background-size: cover;
